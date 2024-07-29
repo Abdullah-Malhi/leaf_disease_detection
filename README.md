@@ -1,4 +1,4 @@
-# leaf disease detection and classification
+# leaf disease detection and segmentation
 ## Overview
 This notebook demonstrates the complete workflow for training a convolutional neural network using the DenseNet201 architecture to classify 67 classes of plant diseases from images. It includes steps for setting parameters, loading datasets, data preprocessing and augmentation, model definition using the functional API, model compilation, training with custom callbacks, and saving the trained model and training history. The notebook also provides a function to display random images from each class to visualize the dataset.
 ## Dataset
