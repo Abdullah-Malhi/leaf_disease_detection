@@ -32,5 +32,8 @@ The trained model achieves high overall test accuracy of **97.03%** in classifyi
 
 ![image](https://github.com/user-attachments/assets/b9c94c66-fe17-49c4-b189-5b03be4e474b)
 
+## Confusion Matrix
+![image](https://github.com/user-attachments/assets/eaab22bb-d7c6-40b9-b7a6-bb89b7372e18)
+
 ## Contributing
 We welcome contributions! Please fork this repository and submit pull requests for any enhancements or bug fixes.
